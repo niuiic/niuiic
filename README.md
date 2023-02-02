@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=`niuiic`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+![niuiic's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=niuiic&show_icons=true&count_private=true&theme=gotham)
