@@ -5,6 +5,7 @@
 ![niuiic's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niuiic&layout=compact&hide_border=true&langs_count=10)
 
 ## Languages and Tools
+
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
