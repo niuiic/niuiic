@@ -1,4 +1,4 @@
-## Github stats
+## Github Stats
 
 [![niuiic's GitHub stats](https://github-readme-stats.vercel.app/api?username=niuiic)](https://github.com/anuraghazra/github-readme-stats)
 
