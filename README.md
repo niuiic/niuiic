@@ -8,6 +8,9 @@
 
 ![Contribution](metrics.plugin.isocalendar.fullyear.svg)
 
+## Repositories
+[![Flow](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=flow)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and Tools
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
