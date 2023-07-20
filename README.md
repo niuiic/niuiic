@@ -6,6 +6,8 @@
 
 ![Repositories](metrics.plugin.stars.svg)
 
+![Contribution](metrics.plugin.isocalendar.fullyear.svg)
+
 ## Languages and Tools
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
