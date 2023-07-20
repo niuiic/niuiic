@@ -1,6 +1,6 @@
 ## Github Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
