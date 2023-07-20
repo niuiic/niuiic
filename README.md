@@ -1,6 +1,6 @@
 ## Github Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/niuiic)
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
@@ -9,7 +9,7 @@
 ![Contribution](metrics.plugin.isocalendar.fullyear.svg)
 
 ## Repositories
-[![Flow](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=flow)](https://github.com/anuraghazra/github-readme-stats)
+[![Flow](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=flow)](https://flow.niuiic.com)
 
 ## Languages and Tools
 
