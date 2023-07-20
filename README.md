@@ -4,6 +4,8 @@
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
+![Repositories](metrics.plugin.stars.svg)
+
 ## Languages and Tools
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
