@@ -2,6 +2,8 @@
 
 ![Metrics](/github-metrics.svg)
 
+![Languages](/metrics.plugin.languages.indepth.svg)
+
 ## Languages and Tools
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
