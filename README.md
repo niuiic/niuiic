@@ -10,6 +10,7 @@
 
 ## Repositories
 [![Flow](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=flow)](https://flow.niuiic.com)
+[![Modern Neovim Configuration](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=modern-neovim-configuration)](https://github.com/niuiic/modern-neovim-configuration)
 
 ## Languages and Tools
 
