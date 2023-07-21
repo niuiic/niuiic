@@ -1,5 +1,3 @@
-## Github Stats
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/niuiic)
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
@@ -8,11 +6,7 @@
 
 ![Contribution](/metrics.plugin.isocalendar.fullyear.svg)
 
-## Repositories
-
 ![Repositories](/metrics.plugin.repositories.svg)
-
-## Languages and Tools
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
