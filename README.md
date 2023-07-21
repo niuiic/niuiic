@@ -4,13 +4,13 @@
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
-![Repositories](metrics.plugin.stars.svg)
+![Repositories](/metrics.plugin.stars.svg)
 
-![Contribution](metrics.plugin.isocalendar.fullyear.svg)
+![Contribution](/metrics.plugin.isocalendar.fullyear.svg)
 
 ## Repositories
-[![Flow](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=flow)](https://flow.niuiic.com)
-[![Modern Neovim Configuration](https://github-readme-stats.vercel.app/api/pin/?username=niuiic&repo=modern-neovim-configuration)](https://github.com/niuiic/modern-neovim-configuration)
+
+![Repositories](/metrics.plugin.repositories.svg)
 
 ## Languages and Tools
 
