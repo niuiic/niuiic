@@ -2,9 +2,9 @@
 
 ![Repositories](/metrics.plugin.repositories.svg)
 
-![Languages](/metrics.plugin.languages.indepth.svg)
-
 ![Repositories](/metrics.plugin.stars.svg)
+
+![Languages](/metrics.plugin.languages.indepth.svg)
 
 ![Contribution](/metrics.plugin.isocalendar.fullyear.svg)
 
