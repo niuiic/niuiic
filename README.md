@@ -1,7 +1,5 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/niuiic)
 
-![Repositories](/metrics.plugin.repositories.svg)
-
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
 ![Contribution](/metrics.plugin.isocalendar.fullyear.svg)
