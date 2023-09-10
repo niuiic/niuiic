@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.8503601472829" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="335.8503601472829" y="0" width="118.55560402650947" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.40596417379237" y="0" width="2.909920830437978" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3158850042303" y="0" width="2.68411499576967" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.913841972574" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="335.913841972574" y="0" width="118.56499832412818" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.4788402967022" y="0" width="2.9101514113755265" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.3889917080777" y="0" width="2.6110082919222974" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -75,8 +75,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>357 lines</div>
-                                <div>6.41 kB</div>
+                                <div>345 lines</div>
+                                <div>6.23 kB</div>
                             </small>
                         </div>
                     </section>
