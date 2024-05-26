@@ -24,7 +24,7 @@ jobs:
         base: ""
         plugin_languages: yes
         plugin_languages_ignored: >-
-          html, css, tex, less, scss, dockerfile, makefile, qmake, lex, cmake, shell,
+          html, css, tex, less, SCSS, dockerfile, makefile, qmake, lex, cmake, shell,
           gnuplot, Vim Script, Vim Snippet
         plugin_languages_indepth: yes
         plugin_languages_details: lines, bytes-size
