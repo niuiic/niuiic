@@ -1,4 +1,4 @@
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/niuiic)](https://github.com/niuiic)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/niuiic?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false&Points.IndirectStars=0)](https://github.com/niuiic)
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
