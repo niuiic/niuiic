@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niuiic&show_icons=true&theme=transparent)](https://github.com/niuiic)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/niuiic)](https://github.com/niuiic)
 
 ![Languages](/metrics.plugin.languages.indepth.svg)
 
